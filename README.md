@@ -7,12 +7,17 @@
 ⚽ Fuera del código, también soy muy fanático del fútbol y disfruto combinar creatividad, lógica y trabajo en equipo en todo lo que hago.
 
 ---
+Actualmente trabajando en este proyecto
+
+[Mini-Football](https://github.com/Leiazel/Mini-Football)
+
 
 ## 🚀 Tecnologías y herramientas que conozco
 
 ### 💻 Lenguajes
 - Java
 - Python
+- Godot
 - Pascal
 - Assembly
 - SQL
