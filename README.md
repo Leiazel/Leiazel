@@ -10,6 +10,8 @@
 Actualmente trabajando en este proyecto
 
 [Mini-Football](https://github.com/Leiazel/Mini-Football)
+Visita mi portfolio en este link!
+[Portfolio](https://portfolio-gold-zeta-ta1r8zgior.vercel.app/)
 
 
 ## 🚀 Tecnologías y herramientas que conozco
